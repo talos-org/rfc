@@ -46,7 +46,7 @@ Some changes do not require an RFC:
 
 ## What the process is
 
-* Fork the RFC repo http://github.com/reactjs/rfcs
+* Fork this RFC repo
 * Fill in the contents in `template.md` and add it to `/rfcs`
 * Submit a pull request. As a pull request the RFC will receive design
 feedback from the Talos core team, and the author should be prepared
